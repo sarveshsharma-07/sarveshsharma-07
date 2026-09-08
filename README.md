@@ -52,6 +52,16 @@
 
 </p>
 
+📫 Contact Me
+<div align="center"> <a href="mailto:ss4390786@gmail.com"> <img src="https://img.shields.io/badge/Email-ss4390786%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/sarvesh-sharma-b16783333/"> <img src="https://img.shields.io/badge/LinkedIn-Sarvesh%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/sarveshsharma-07"> <img src="https://img.shields.io/badge/GitHub-sarveshsharma--07-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </div>
+
+<div align="center">
+🚀 Learn • Build • Improve
+
+Thanks for visiting my profile!
+
+</div> ```
+
 ---
 
 ## 📚 What I've Learned
