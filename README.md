@@ -1,65 +1,113 @@
+<!-- ========================================================= -->
+<!--                    HEADER / BANNER                         -->
+<!-- ========================================================= -->
+
 <div align="center">
 
-# 👋 Hi, I'm Sarvesh Sharma
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:171717,100:333333&height=220&section=header&text=SARVESH%20SHARMA&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Developer&descAlignY=60&descSize=18"/>
 
-### 💻 Computer Science Student | Aspiring Software Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I+love+building+things+with+code;Learning+%7C+Building+%7C+Improving;Future+Software+Engineer+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Sarvesh+Sharma+%F0%9F%91%8B;Computer+Science+Student+%F0%9F%92%BB;Aspiring+Software+Engineer+%F0%9F%9A%80;Code+%E2%86%92+Build+%E2%86%92+Learn+%E2%86%92+Repeat+%F0%9F%94%A5" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=sarveshsharma-07&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=sarveshsharma-07&label=PROFILE%20VIEWS&color=000000&style=for-the-badge" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👋 Hi there, I am **Sarvesh Sharma**
 
-- 🎓 I'm a **Computer Science student**
-- 💻 Passionate about **Software Development**
-- 🌱 Currently improving my **programming & development skills**
-- 🧠 Interested in **AI, Web Development & Problem Solving**
-- 🚀 I enjoy turning ideas into working projects
-- 🇮🇳 Based in **India**
-- ⚡ Fun fact: **I learn by building.**
+<div align="center">
+
+### 💻 Computer Science Student | Developer | Tech Enthusiast
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+## 🧑‍💻 About Me
+
+I'm a **Computer Science student** passionate about technology, programming and building things with code.
+
+- 🎓 Computer Science Student
+- 💻 Love programming & development
+- 🚀 Aspiring Software Engineer
+- 🌐 Interested in Web Development
+- 🤖 Exploring Artificial Intelligence
+- 🧠 Improving my problem-solving skills
+- 🔥 Learning something new every day
+- 🇮🇳 India
+
+> **"Learn. Build. Break. Fix. Repeat."**
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Languages & Technologies
+# 🛠️ My Skills
 
-### 💻 Programming Languages
+<div align="center">
 
-<p align="left">
+## 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=c" />
-<img src="https://skillicons.dev/icons?i=cpp" />
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java" />
 
-</p>
+<br><br>
 
-### 🌐 Web Development
+## 🌐 Web Development
 
-<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
 
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=js" />
-<img src="https://skillicons.dev/icons?i=bootstrap" />
-
-</p>
+</div>
 
 ---
 
-## 📚 What I've Learned
+# 📚 Languages & Technologies
+
+<div align="center">
+
+| Technology | Level |
+|:---:|:---:|
+| 🟦 C | ⭐⭐⭐⭐ |
+| ⚡ C++ | ⭐⭐⭐⭐ |
+| 🐍 Python | ⭐⭐⭐⭐ |
+| ☕ Java | ⭐⭐⭐⭐ |
+| 🌐 HTML | ⭐⭐⭐⭐⭐ |
+| 🎨 CSS | ⭐⭐⭐⭐ |
+| ⚙️ JavaScript | ⭐⭐⭐⭐ |
+| 🅱️ Bootstrap | ⭐⭐⭐⭐ |
+
+</div>
+
+---
+
+# ⚡ Tech Stack
 
 ```text
-C              ████████████████████  Fundamentals
-C++            ████████████████████  OOP & Programming
-Python         ████████████████████  Programming & Scripting
-Java           ████████████████████  OOP & Development
-HTML           ████████████████████  Web Structure
-CSS            ████████████████████  Styling & Responsive Design
-JavaScript     ████████████████████  Web Interactivity
-Bootstrap      ████████████████████  UI & Responsive Design
+Programming
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+C              ███████████████████░░   90%
+C++            ██████████████████░░░   85%
+Python         ██████████████████░░░   85%
+Java           ████████████████░░░░░   80%
+
+
+Web Development
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+HTML           ████████████████████░   95%
+CSS            ██████████████████░░░   90%
+JavaScript     █████████████████░░░░   85%
+Bootstrap      ██████████████████░░░   90%
