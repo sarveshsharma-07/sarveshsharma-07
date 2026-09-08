@@ -4,11 +4,13 @@
 
 ### 💻 Computer Science Student | Aspiring Software Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I+love+building+things+with+code;Learning+%7C+Building+%7C+Improving;Future+Software+Engineer+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;I+love+building+things+with+code;Learning+%7C+Building+%7C+Improving;Future+Software+Engineer+%F0%9F%9A%80" />
 
 <br>
 
+<a href="https://github.com/sarveshsharma-07">
 <img src="https://komarev.com/ghpvc/?username=sarveshsharma-07&label=Profile%20Views&color=0e75b6&style=flat" />
+</a>
 
 </div>
 
@@ -59,6 +61,7 @@ C              ████████████████████  Fun
 C++            ████████████████████  OOP & Programming
 Python         ████████████████████  Programming & Scripting
 Java           ████████████████████  OOP & Development
+
 HTML           ████████████████████  Web Structure
 CSS            ████████████████████  Styling & Responsive Design
 JavaScript     ████████████████████  Web Interactivity
