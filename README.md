@@ -82,16 +82,3 @@
 
 </div>
 ---
-
-## 📚 What I've Learned
-
-```text
-C              ████████████████████  Fundamentals
-C++            ████████████████████  OOP & Programming
-Python         ████████████████████  Programming & Scripting
-Java           ████████████████████  OOP & Development
-
-HTML           ████████████████████  Web Structure
-CSS            ████████████████████  Styling & Responsive Design
-JavaScript     ████████████████████  Web Interactivity
-Bootstrap      ████████████████████  UI & Responsive Design
