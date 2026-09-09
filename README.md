@@ -62,7 +62,7 @@
 <img src="https://img.shields.io/badge/EMAIL-SS4390786%40GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/sarvesh-sharma-b16783333/">
+<a href="https://www.linkedin.com/in/sarveshsharma07/">
 <img src="https://img.shields.io/badge/LINKEDIN-SARVESH%20SHARMA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
